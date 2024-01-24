@@ -2,7 +2,7 @@
   "author": "Famarks",
   "license": "Apache-2.0",
   "name": "@grafarg/eslint-config",
-  "version": "2.4.0",
+  "version": "2.4.1",
   "description": "Grafarg's ESLint config",
   "keywords": [
     "grafarg",
